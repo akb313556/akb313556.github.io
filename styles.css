@@ -60,7 +60,7 @@ p{margin:0 0 1em}
 .hero-meta{margin-top:38px;padding-top:22px;border-top:1px solid rgba(255,255,255,.12);font-size:.86rem;letter-spacing:.12em;text-transform:uppercase;color:#b9bdc2}
 .hero-meta strong{color:var(--gold-light);font-weight:600}
 .hero-logo{width:100%;max-width:430px;height:auto;margin-left:auto}
-.since{display:block;text-align:center;margin-top:-6px;font-size:.78rem;letter-spacing:.28em;text-transform:uppercase;color:var(--gold-light)}
+.since{display:block;text-align:center;margin-top:-12px;font-size:.78rem;letter-spacing:.28em;text-transform:uppercase;color:var(--gold-light)}
 
 /* Sections */
 section{padding:108px 0}
@@ -183,7 +183,7 @@ section{padding:108px 0}
   .hero-grid,.two-col,.highlights,.team-grid{grid-template-columns:1fr;gap:44px}
   .hero-logo-wrap{order:-1}
   .hero-logo{max-width:320px;margin:0 auto}
-  .since{margin-top:0}
+  .since{margin-top:-8px}
   .contact-layout{grid-template-columns:1fr}
   section{padding:76px 0}
 }
